@@ -31,7 +31,7 @@ I will support following languages firstly:
 
 ## install
 
-I recommend to install vim-pathogen and adding this to .vim/bundle/syntax
+I recommend to install vim-pathogen and adding this to .vim/bundle/vim-syntax
 Other way you can install it to ./vim/syntax, but i don't recommend this
 
 ## future
