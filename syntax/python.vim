@@ -1,3 +1,5 @@
+"MIT License Copyright (c) 2018 Philip Mayer
+
 " Vim syntax file
 " Language:	Python
 " Maintainer:	Neil Schemenauer <nas@python.ca>

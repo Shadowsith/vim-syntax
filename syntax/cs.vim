@@ -1,3 +1,5 @@
+"MIT License Copyright (c) 2018 Philip Mayer
+
 "Mathematics
 syntax match csConditional '[\+\*/\-%]'
 
