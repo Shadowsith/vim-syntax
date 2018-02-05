@@ -10,7 +10,7 @@ syntax match javaScriptOperator '[=<>!&|]'
 syntax match javaScriptOperator '[.,:;]'
 
 "jQuery vary
-syntax match javaScriptOperator '$'
+syntax match javaScriptOperator '\$'
 
 " itterators (using simple regex):
 syntax match javaScriptOperator "[ijkl][=]"
